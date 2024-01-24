@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    background: #222;
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.bgBlack {
+    background-color: black;
+}
+
+.imgGen {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+
+
+}
+
+.imgJumbo {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.btnJumbo {
+    width: 200px;
+    height: 40px;
+    background-color: #0383f9;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    position: relative;
+    bottom: 20px;
+    left: 300px;
+}
+
+.fs-7 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.btn {
+
+    width: 170px;
+    height: 35px;
+    background-color: #0383f9;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+
+}
